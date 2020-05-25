@@ -16,7 +16,8 @@ https://www.npmjs.com/package/aws-sam-webpack-plugin
 11. Remove .npmigore and package.json under src/hello-world folder
 12 . Rename app.js tp app.ts
 
-
+to build: npm run build
+to deploy to aws : sam deploy --guided
 
 
 ***original from sam init***
